@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "card_bg": "#D9E5FF",
+        "img": "https://example.com/donation1.jpg",
+        "title": "Clean Water Initiative",
+        "description": "Help provide clean and safe drinking water to communities in need.",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "title_color": "#0052FF",
+        "price": 50
+    },
+    {
+        "id": 2,
+        "card_bg": "#FFE3E4",
+        "img": "https://example.com/donation2.jpg",
+        "title": "Education for Underprivileged Children",
+        "description": "Support the education of children in low-income areas and give them a brighter future.",
+        "category": "Education",
+        "category_bg": "#FF444A33", 
+        "title_color": "#FF444A", 
+        "price": 30
+    },
+   
+    {
+        "id": 3,
+        "card_bg": "#FEEAE3",
+        "img": "https://example.com/donation4.jpg",
+        "title": "Hunger Relief Program",
+        "description": "Help fight hunger by supporting food distribution initiatives in disadvantaged areas.",
+        "category": "Food",
+        "category_bg": "#F8714733", 
+        "title_color": "#F87147", 
+        "price": 40
+    },
+    {
+        "id": 4,
+        "card_bg": "#EBF6E2",
+        "img": "https://example.com/donation5.jpg",
+        "title": "Animal Welfare Fund",
+        "description": "Contribute to the protection and care of animals in shelters and sanctuaries.",
+        "category": "Clothing",
+        "category_bg": "#79C23333", 
+        "title_color": "#79C23F", 
+        "price": 20
+    },
+    {
+        "id": 5,
+        "card_bg": "#FEEAE3",
+        "img": "https://example.com/donation6.jpg",
+        "title": "Environmental Conservation",
+        "description": "Support initiatives aimed at preserving and restoring our planet's natural resources.",
+        "category": "Food",
+        "category_bg": "#F8714733", 
+        "title_color": "#F87147",
+        "price": 60
+    },
+    {
+        "id": 6,
+        "card_bg": "#FFE3E4",
+        "img": "https://example.com/donation7.jpg",
+        "title": "Empowerment of Women",
+        "description": "Empower women through education, job training, and entrepreneurship programs.",
+        "category": "Education",
+        "category_bg": "#FF444A33", 
+        "title_color": "#FF444A", 
+        "price": 50
+    },
+    {
+        "id": 7,
+        "card_bg": "#EBF6E2",
+        "img": "https://example.com/donation5.jpg",
+        "title": "Animal Welfare Fund",
+        "description": "Contribute to the protection and care of animals in shelters and sanctuaries.",
+        "category": "Clothing",
+        "category_bg": "#79C23333", 
+        "title_color": "#79C23F", 
+        "price": 20
+    },
+    {
+        "id": 8,
+        "card_bg": "#D9E5FF",
+        "img": "https://example.com/donation8.jpg",
+        "title": "Disaster Relief Fund",
+        "description": "Provide immediate assistance to communities affected by natural disasters.",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "title_color": "#0052FF",
+        "price": 100
+    },
+   
+   
+    {
+        "id": 9,
+        "card_bg": "#FFE3E4",
+        "img": "https://example.com/donation11.jpg",
+        "title": "Youth Development",
+        "description": "Support youth development programs, mentorship, and skill-building initiatives.",
+        "category": "Education",
+        "category_bg": "#FF444A33", 
+        "title_color": "#FF444A", 
+        "price": 30
+    },
+    {
+        "id": 10,
+        "card_bg": "#D9E5FF",
+        "img": "https://example.com/donation12.jpg",
+        "title": "Homelessness Outreach",
+        "description": "Help provide shelter, food, and support to homeless individuals and families.",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "title_color": "#0052FF",
+        "price": 45
+    },
+    {
+        "id": 11,
+        "card_bg": "#EBF6E2",
+        "img": "https://example.com/donation5.jpg",
+        "title": "Animal Welfare Fund",
+        "description": "Contribute to the protection and care of animals in shelters and sanctuaries.",
+        "category": "Clothing",
+        "category_bg": "#79C23333", 
+        "title_color": "#79C23F", 
+        "price": 20
+    },
+    {
+        "id": 12,
+        "card_bg": "#FEEAE3",
+        "img": "https://example.com/donation6.jpg",
+        "title": "Environmental Conservation",
+        "description": "Support initiatives aimed at preserving and restoring our planet's natural resources.",
+        "category": "Food",
+        "category_bg": "#F8714733", 
+        "title_color": "#F87147",
+        "price": 60
+    }
+]
