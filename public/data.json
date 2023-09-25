@@ -2,7 +2,7 @@
     {
         "id": 1,
         "card_bg": "#D9E5FF",
-        "img": "https://example.com/donation1.jpg",
+        "img": "https://i.ibb.co/1dG6cPk/Health.png",
         "title": "Clean Water Initiative",
         "description": "Help provide clean and safe drinking water to communities in need.",
         "category": "Health",
@@ -13,8 +13,8 @@
     {
         "id": 2,
         "card_bg": "#FFE3E4",
-        "img": "https://example.com/donation2.jpg",
-        "title": "Education for Underprivileged Children",
+        "img": "https://i.ibb.co/ZxHcGfW/Education.png",
+        "title": "Education for Children",
         "description": "Support the education of children in low-income areas and give them a brighter future.",
         "category": "Education",
         "category_bg": "#FF444A33", 
@@ -25,7 +25,7 @@
     {
         "id": 3,
         "card_bg": "#FEEAE3",
-        "img": "https://example.com/donation4.jpg",
+        "img": "https://i.ibb.co/848sVCF/Food.png",
         "title": "Hunger Relief Program",
         "description": "Help fight hunger by supporting food distribution initiatives in disadvantaged areas.",
         "category": "Food",
@@ -36,9 +36,9 @@
     {
         "id": 4,
         "card_bg": "#EBF6E2",
-        "img": "https://example.com/donation5.jpg",
-        "title": "Animal Welfare Fund",
-        "description": "Contribute to the protection and care of animals in shelters and sanctuaries.",
+        "img": "https://i.ibb.co/mCkqBSs/Clothing.png",
+        "title": "Clothing Welfare Fund",
+        "description": "Contribute to the protection and care of peoples in shelters and sanctuaries.",
         "category": "Clothing",
         "category_bg": "#79C23333", 
         "title_color": "#79C23F", 
@@ -47,7 +47,7 @@
     {
         "id": 5,
         "card_bg": "#FEEAE3",
-        "img": "https://example.com/donation6.jpg",
+        "img": "https://i.ibb.co/848sVCF/Food.png",
         "title": "Environmental Conservation",
         "description": "Support initiatives aimed at preserving and restoring our planet's natural resources.",
         "category": "Food",
@@ -58,7 +58,7 @@
     {
         "id": 6,
         "card_bg": "#FFE3E4",
-        "img": "https://example.com/donation7.jpg",
+        "img": "https://i.ibb.co/ZxHcGfW/Education.png",
         "title": "Empowerment of Women",
         "description": "Empower women through education, job training, and entrepreneurship programs.",
         "category": "Education",
@@ -69,9 +69,9 @@
     {
         "id": 7,
         "card_bg": "#EBF6E2",
-        "img": "https://example.com/donation5.jpg",
-        "title": "Animal Welfare Fund",
-        "description": "Contribute to the protection and care of animals in shelters and sanctuaries.",
+        "img": "https://i.ibb.co/mCkqBSs/Clothing.png",
+        "title": "Clothing Welfare Fund",
+        "description": "Contribute to the protection and care of peoples in shelters and sanctuaries.",
         "category": "Clothing",
         "category_bg": "#79C23333", 
         "title_color": "#79C23F", 
@@ -80,7 +80,7 @@
     {
         "id": 8,
         "card_bg": "#D9E5FF",
-        "img": "https://example.com/donation8.jpg",
+        "img": "https://i.ibb.co/1dG6cPk/Health.png",
         "title": "Disaster Relief Fund",
         "description": "Provide immediate assistance to communities affected by natural disasters.",
         "category": "Health",
@@ -93,7 +93,7 @@
     {
         "id": 9,
         "card_bg": "#FFE3E4",
-        "img": "https://example.com/donation11.jpg",
+        "img": "https://i.ibb.co/ZxHcGfW/Education.png",
         "title": "Youth Development",
         "description": "Support youth development programs, mentorship, and skill-building initiatives.",
         "category": "Education",
@@ -104,7 +104,7 @@
     {
         "id": 10,
         "card_bg": "#D9E5FF",
-        "img": "https://example.com/donation12.jpg",
+        "img": "https://i.ibb.co/1dG6cPk/Health.png",
         "title": "Homelessness Outreach",
         "description": "Help provide shelter, food, and support to homeless individuals and families.",
         "category": "Health",
@@ -115,9 +115,9 @@
     {
         "id": 11,
         "card_bg": "#EBF6E2",
-        "img": "https://example.com/donation5.jpg",
-        "title": "Animal Welfare Fund",
-        "description": "Contribute to the protection and care of animals in shelters and sanctuaries.",
+        "img": "https://i.ibb.co/mCkqBSs/Clothing.png",
+        "title": "Clothing Welfare Fund",
+        "description": "Contribute to the protection and care of people in shelters and sanctuaries.",
         "category": "Clothing",
         "category_bg": "#79C23333", 
         "title_color": "#79C23F", 
@@ -126,7 +126,7 @@
     {
         "id": 12,
         "card_bg": "#FEEAE3",
-        "img": "https://example.com/donation6.jpg",
+        "img": "https://i.ibb.co/848sVCF/Food.png",
         "title": "Environmental Conservation",
         "description": "Support initiatives aimed at preserving and restoring our planet's natural resources.",
         "category": "Food",
