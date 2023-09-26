@@ -5,7 +5,7 @@ import Navlink from "../navLink/Navlink";
 const Header = () => {
     const location = useLocation()
     const navLinks= [
-        {path:'/',name:'home'},
+        {path:'/',name:'Home'},
         {path:'/donation',name:'Donation'},
         {path:'/statistics',name:'Statistics'}]
         
