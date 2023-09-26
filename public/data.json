@@ -9,7 +9,7 @@
         "category": "Health",
         "category_bg": "#0052FF33",
         "title_color": "#0052FF",
-        "price": 50
+        "price": 140
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "category": "Education",
         "category_bg": "#FF444A33", 
         "title_color": "#FF444A", 
-        "price": 30
+        "price": 160
     },
     {
         "id": 3,
@@ -33,61 +33,61 @@
         "category": "Food",
         "category_bg": "#F8714733", 
         "title_color": "#F87147", 
-        "price": 40
+        "price": 170
     },
     {
         "id": 4,
         "card_bg": "#EBF6E2",
-        "img": "https://i.ibb.co/mCkqBSs/Clothing.png",
-        "img_d":"https://i.ibb.co/z8GYJs3/Rectangle-4287.png",
-        "title": "Clothing Welfare Fund",
+        "img": "https://i.ibb.co/jGcdLhv/clothing1.jpg",
+        "img_d":"https://i.ibb.co/jGcdLhv/clothing1.jpg",
+        "title": "clothing welfare fund",
         "description": "Contribute to the protection and care of people in shelters and sanctuaries with our Clothing Welfare Fund. Your support helps provide clothing and essentials to those who are less fortunate, offering warmth and dignity during challenging times.",
         "category": "Clothing",
         "category_bg": "#79C23333", 
         "title_color": "#79C23F", 
-        "price": 20
+        "price": 190
     },
     {
         "id": 5,
         "card_bg": "#FEEAE3",
-        "img": "https://i.ibb.co/848sVCF/Food.png",
-        "img_d":"https://i.ibb.co/S6K7cjW/Rectangle-4287-2.png",
+        "img": "https://i.ibb.co/tmR0BtC/food2.jpg",
+        "img_d":"https://i.ibb.co/tmR0BtC/food2.jpg",
         "title": "Environmental Conservation",
         "description": "Support initiatives aimed at preserving and restoring our planet's natural resources through our Environmental Conservation program. Your contribution goes toward sustainable practices, protecting wildlife, and maintaining the beauty of our world for future generations.",
         "category": "Food",
         "category_bg": "#F8714733", 
         "title_color": "#F87147",
-        "price": 60
+        "price": 160
     },
     {
         "id": 6,
         "card_bg": "#FFE3E4",
-        "img": "https://i.ibb.co/ZxHcGfW/Education.png",
-        "img_d":"https://i.ibb.co/GxKNLtg/Rectangle-4287-1.png",
-        "title": "Empowerment of Women",
+        "img": "https://i.ibb.co/pnpsXKb/education2.jpg",
+        "img_d":"https://i.ibb.co/pnpsXKb/education2.jpg",
+        "title": "Empowerment of africa",
         "description": "Empower women through education, job training, and entrepreneurship programs with our Empowerment of Women initiative. Your support helps create opportunities for women to lead independent and fulfilling lives.",
         "category": "Education",
         "category_bg": "#FF444A33", 
         "title_color": "#FF444A", 
-        "price": 50
+        "price": 150
     },
     {
         "id": 7,
         "card_bg": "#EBF6E2",
         "img": "https://i.ibb.co/mCkqBSs/Clothing.png",
-        "img_d":"https://i.ibb.co/z8GYJs3/Rectangle-4287.png",
+        "img_d":"https://i.ibb.co/S6K7cjW/Rectangle-4287-2.pnghttps://i.ibb.co/jGcdLhv/clothing1.jpg",
         "title": "Clothing for poor",
         "description": "Contribute to the protection and care of people in shelters and sanctuaries with our Clothing Welfare Fund. Your support helps provide clothing and essentials to those who are less fortunate, offering warmth and dignity during challenging times.",
         "category": "Clothing",
         "category_bg": "#79C23333", 
         "title_color": "#79C23F", 
-        "price": 20
+        "price": 200
     },
     {
         "id": 8,
         "card_bg": "#D9E5FF",
-        "img": "https://i.ibb.co/1dG6cPk/Health.png",
-        "img_d":"https://i.ibb.co/qmvwSrW/Rectangle-4284.png",
+        "img": "https://i.ibb.co/64MWkm9/health1.jpg",
+        "img_d":"https://i.ibb.co/64MWkm9/health1.jpg",
         "title": "Disaster Relief Fund",
         "description": "Provide immediate assistance to communities affected by natural disasters with our Disaster Relief Fund. Your donation helps us respond rapidly to emergencies, delivering aid and support to those in need during their most challenging times.",
         "category": "Health",
@@ -98,50 +98,50 @@
     {
         "id": 9,
         "card_bg": "#FFE3E4",
-        "img": "https://i.ibb.co/ZxHcGfW/Education.png",
-        "img_d":"https://i.ibb.co/GxKNLtg/Rectangle-4287-1.png",
+        "img":"https://i.ibb.co/SxYNzVs/education1.jpg",
+        "img_d":"https://i.ibb.co/SxYNzVs/education1.jpg",
         "title": "Youth Development",
         "description": "Support youth development programs, mentorship, and skill-building initiatives with our Youth Development program. Your contribution provides opportunities for young people to learn, grow, and thrive in a supportive environment.",
         "category": "Education",
         "category_bg": "#FF444A33", 
         "title_color": "#FF444A", 
-        "price": 30
+        "price": 130
     },
     {
         "id": 10,
         "card_bg": "#D9E5FF",
-        "img": "https://i.ibb.co/1dG6cPk/Health.png",
-        "img_d":"https://i.ibb.co/qmvwSrW/Rectangle-4284.png",
+        "img": "https://i.ibb.co/HxnHYzs/health2.jpg",
+        "img_d":"https://i.ibb.co/HxnHYzs/health2.jpg",
         "title": "Homelessness Outreach",
         "description": "Help provide shelter, food, and support to homeless individuals and families with our Homelessness Outreach program. Your donation goes directly to making a difference in the lives of those experiencing homelessness, offering hope and assistance.",
         "category": "Health",
         "category_bg": "#0052FF33",
         "title_color": "#0052FF",
-        "price": 45
+        "price": 145
     },
     {
         "id": 11,
         "card_bg": "#EBF6E2",
-        "img": "https://i.ibb.co/mCkqBSs/Clothing.png",
-        "img_d":"https://i.ibb.co/z8GYJs3/Rectangle-4287.png",
-        "title": "Clothing Welfare Fund",
+        "img": "https://i.ibb.co/DKyrPVq/clothing2.jpg",
+        "img_d":"https://i.ibb.co/DKyrPVq/clothing2.jpg",
+        "title": "Fund raising for clothing",
         "description": "Contribute to the protection and care of people in shelters and sanctuaries with our Clothing Welfare Fund. Your support helps provide clothing and essentials to those who are less fortunate, offering warmth and dignity during challenging times.",
         "category": "Clothing",
         "category_bg": "#79C23333", 
         "title_color": "#79C23F", 
-        "price": 20
+        "price": 120
     },
   
     {
         "id": 12,
         "card_bg": "#FEEAE3",
-        "img": "https://i.ibb.co/848sVCF/Food.png",
-        "img_d":"https://i.ibb.co/S6K7cjW/Rectangle-4287-2.png",
+        "img": "https://i.ibb.co/rp95txQ/food1.jpg",
+        "img_d":"https://i.ibb.co/rp95txQ/food1.jpg",
         "title": "Environmental Conservation",
         "description": "Support initiatives aimed at preserving and restoring our planet's natural resources through our Environmental Conservation program. Your contribution goes toward sustainable practices, protecting wildlife, and maintaining the beauty of our world for future generations.",
         "category": "Food",
         "category_bg": "#F8714733", 
         "title_color": "#F87147",
-        "price": 60
+        "price": 160
     }
 ]

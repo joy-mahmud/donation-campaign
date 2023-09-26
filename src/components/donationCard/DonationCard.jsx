@@ -6,7 +6,7 @@ const DonationCard = ({ donations }) => {
     return (
         <div style={{ backgroundColor: card_bg }} className="rounded-lg flex ">
 
-            <img src={img_d} alt="" />
+            <img className="rounded-l-lg h-[220px] w-[220px]" src={img_d} alt="" />
             <div className="ml-3 ">
                 <button style={{ color: title_color, backgroundColor: category_bg }} className="rounded-lg px-3 py-1 text-[14px] font-medium mt-3 mb-3">{category}
                 </button>

@@ -7,8 +7,8 @@ const Card = ({ cardData }) => {
 
     return (
         <Link to={`/donation_details/${id}`}>
-            <div style={{ backgroundColor: card_bg }} className="rounded-lg">
-                <img src={img} alt="" />
+            <div style={{ backgroundColor: card_bg }} className="rounded-lg pb-1">
+                <img className="rounded-t-lg h-[194px] w-full" src={img} alt="" />
                 <button style={{ color: title_color, backgroundColor: category_bg }} className="rounded-lg px-3 py-1 text-[14px] font-medium ml-3 mt-3 mb-3">{category}
                 </button>
                 <h2 style={{ color: title_color }} className="text-[20px] font-semibold ml-3 mb-4">{title}</h2>

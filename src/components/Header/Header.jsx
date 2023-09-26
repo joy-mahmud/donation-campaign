@@ -1,5 +1,6 @@
 import {useLocation } from "react-router-dom";
 import img from'../../assets/images/Logo.png'
+import img2 from'../../assets/images/donatebg.jpg'
 import Navlink from "../navLink/Navlink";
 
 const Header = () => {
