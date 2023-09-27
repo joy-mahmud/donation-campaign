@@ -43,10 +43,10 @@ const Statistics = () => {
 
             <Chart
                 type='pie'
-                width={pieWidth}
-                height={piewheight}
+                width={pieWidth-100}
+                height={piewheight-100}
                 series={[totalDoantionPercentage, myDonationPercentage]}
-                options={{ labels: ['Total donations', 'Your donations'] }}
+                 options={{ labels: ['total donation', 'your donatiion'] }}
             ></Chart>
         </div>
     );
