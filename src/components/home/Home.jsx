@@ -36,12 +36,14 @@ const Home = () => {
 
     return (
         <div className="relative" >
-            <div className="mb-32">
-                <div className="lg:h-[500px]">
+            <div className="mb-20">
+                <div className="lg:h-[500px] md:h-[400px]">
                     <img className="opacity-10 h-full w-full" src={img2} alt="" />
                 </div>
-                <div className=" top-[100px] text-center space-y-10 mb-12 mt-16 container mx-auto absolute ">
-                    <h2 className="text-[48px] font-bold">I Grow By Helping People In Need</h2>
+                <div className=" top-[50px] lg:top-[100px] md:top-[80px]text-center space-y-5 md:space-y-10 lg:space-y-10 mb-12 mt-16 container mx-auto absolute ">
+                    <div className="flex justify-center items-center text-center mx-2">
+                        <h2 className=" text-[32px] lg:text-[48px] font-bold">I Grow By Helping People In Need</h2>
+                    </div>
                     <div className="flex items-center justify-center">
                         <form onSubmit={handleSearch}>
                             <input className="lg:w-[470px] border-2 rounded-lg rounded-e-none px-3 py-2 border-e-0 outline-none" ref={searchREf} placeholder="search here..." type="text" />
@@ -51,7 +53,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            <div className="grid grid-cols-4 gap-4 container mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 container mx-auto mb-20 ">
                 {
                     displayCard.map(card => <Card key={card.id} cardData={card}></Card>)
                 }

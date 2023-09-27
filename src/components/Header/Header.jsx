@@ -1,6 +1,6 @@
 import {useLocation } from "react-router-dom";
 import img from'../../assets/images/Logo.png'
-import img2 from'../../assets/images/donatebg.jpg'
+
 import Navlink from "../navLink/Navlink";
 
 const Header = () => {
@@ -11,9 +11,9 @@ const Header = () => {
         {path:'/statistics',name:'Statistics'}]
         
     return (
-        <div className="flex justify-between container mx-auto items-center mt-10">
-            <img src={img} alt="" />
-            <div className="flex list-none gap-12 text-[18px] font-bold">
+        <div className="flex justify-between container lg:mx-auto items-center px-2 mt-10">
+            <img className="w-[140px] md:w-[250px] lg:w-[250px]" src={img} alt="" />
+            <div className="flex list-none gap-2 md:gap-8 lg:gap-12 lg:text-[20px] font-bold">
                 {
                     navLinks.map((links,idx)=><Navlink key={idx} links={links} location={location}  ></Navlink>)
                 }
